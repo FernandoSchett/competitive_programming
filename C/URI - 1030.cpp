@@ -1,3 +1,6 @@
+// Made by Fernando Schettini
+// Github: https://github.com/FernandoSchett
+
 #include<stdio.h>
 #include<stdlib.h>
 typedef int tp_item;
