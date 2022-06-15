@@ -8,4 +8,4 @@ JOIN
 JOIN 
     categories ON (products.id_categories = categories.id)
 WHERE
-    categories.id = 6
+    categories.id = 6;

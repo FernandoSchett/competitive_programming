@@ -2,4 +2,4 @@
 SELECT
     CAST(AVG(price) AS DECIMAL (6,2))
 FROM
-    products
+    products;

@@ -6,4 +6,4 @@ FROM
 JOIN
     categories ON (products.id_categories = categories.id)
 WHERE
-    categories.name like 'super%'
+    categories.name like 'super%';

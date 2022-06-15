@@ -2,4 +2,4 @@
 SELECT DISTINCT
     city
 FROM
-    customers
+    customers;

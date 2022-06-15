@@ -5,4 +5,4 @@ SELECT
 FROM
     providers
 ORDER BY
-    name
+    name;

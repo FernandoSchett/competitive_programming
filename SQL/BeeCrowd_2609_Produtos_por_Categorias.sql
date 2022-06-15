@@ -6,4 +6,4 @@ FROM
 JOIN
     categories on (products.id_categories = categories.id)
 GROUP BY
-    categories.id
+    categories.id;
