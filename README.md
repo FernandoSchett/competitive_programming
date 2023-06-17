@@ -66,7 +66,7 @@ First, clone this repository. In the top of each code file, has a manual with in
 	Purpose:        Code for hard problems         
 	Authors:        Fernando Antônio Marques Schettini   
 	Usage: 
-		HowToCompile:   gcc filne_name.cpp -o filne_name
+		HowToCompile:   gcc filne_name.cpp -o file_name
 		HowToExecute:   ./file_name           
 	*/ 
 
