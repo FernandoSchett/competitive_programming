@@ -28,7 +28,7 @@ Feel free to check **my profile** at some of these Competitive Programming plata
 ## Special thanks to 🥰:
 
 - [Márcio Soussa](https://www.linkedin.com/in/marcio-soussa/?originalSubdomain=br), thank you for your support and guidance in my competitive programming journey. Your encouragement and mentorship have been invaluable.
-- [Marcos Lapa](https://github.com/marcoslapa),thank you for your support and guidance in my competitive programming journey. Your encouragement and mentorship have been invaluable.
+- [Marcos Lapa](https://github.com/marcoslapa), thank you for your support and guidance in my competitive programming journey. Your encouragement and mentorship have been invaluable.
 
 ## Resourses 🧑‍🔬:
 
@@ -43,7 +43,7 @@ Feel free to check **my profile** at some of these Competitive Programming plata
 	<img height = "20em" src = "https://github.com/FernandoSchett/competitive_programming/assets/80331486/cce82f64-75d5-4e32-a231-e86640723209" />
     </a>
 </div>
-<h4 align="center">Figure 1 - Placement at SBC 2020 first fase.</h4>
+<h4 align="center">Figure 1 - Placement at <a href="https://maratona.sbc.org.br/">SBC</a> 2020 first fase.</h4>
 
 ## Dependencies 🚚:
 
@@ -61,12 +61,12 @@ For installing dependencie, you can run the following command at terminal, insid
 First, clone this repository. In the top of each code file, has a manual with instructions for compiling, running, its porpouse and other information. They usually look like the template below:
 
 	/*
-	File:           filne_name.ext
+	File:           file_name.ext
 	Last changed:   xx/xx/20xx xx:xx
 	Purpose:        Code for hard problems         
 	Authors:        Fernando Antônio Marques Schettini   
 	Usage: 
-		HowToCompile:   gcc filne_name.cpp -o file_name
+		HowToCompile:   gcc fiLe_name.cpp -o file_name
 		HowToExecute:   ./file_name           
 	*/ 
 
